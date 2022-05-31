@@ -5,4 +5,5 @@
 
 Curso iniciado em maio de 2022 e fornecido pelo portal https://developer.android.com/, contendo os seguintes projetos:
 <br>
-- Cartão de aniversário https://github.com/vinivilasboas/android-basics-in-kotlin-developers/tree/main/HappyBirthday
+- Cartão de aniversário https://github.com/vinivilasboas/android-basics-in-kotlin-developers/tree/main/HappyBirthday <br>
+- Jogador de dado https://github.com/vinivilasboas/android-basics-in-kotlin-developers/tree/main/DiceRoller
